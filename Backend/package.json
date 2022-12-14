@@ -1,0 +1,31 @@
+{
+  "name": "sirius_bank_bot",
+  "version": "1.0.0",
+  "description": "this is  sirius bank bot  ",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragulslrk/sirius_bank_bot.git"
+  },
+  "author": "tricky techie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragulslrk/sirius_bank_bot/issues"
+  },
+  "homepage": "https://github.com/ragulslrk/sirius_bank_bot#readme",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "fast-two-sms": "^3.0.0",
+    "handlebars": "^4.7.7",
+    "mongoose": "^6.8.0",
+    "nodemailer": "^6.8.0",
+    "unirest": "^0.6.0"
+  }
+}
